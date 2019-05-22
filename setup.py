@@ -1,4 +1,6 @@
-# Use setuptools in preference to distutils
+# Use setuptools in preference to distuti
+#testing to see if this works
+
 try:
     from setuptools import setup
 except ImportError:
